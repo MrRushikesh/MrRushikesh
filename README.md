@@ -5,8 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rushikesh-yellow)](https://stackoverflow.com/users/19969204/mr-rushikesh?tab=profile)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Fresher Full Stack Developer I have studied these techologies in front end and back end HTML, CSS, JavaScript, Bootstrap React.js, Node.js , MongoDB. Also, since my graduation is from Master of Computer Management, I have study in C programming, C++, Java, SQL, HTML. Also I have worked on the project Vehicle Automation System in college and after my college I have done intership at edureka in this intership I have worked on two real time applications Zomato and Flipkart using all the technolgise.
 
 ![Visitor Count](https://profile-counter.glitch.me/rushikesh/count.svg)
 <div>
