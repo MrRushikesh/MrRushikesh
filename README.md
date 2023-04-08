@@ -5,8 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rushikesh-yellow)](https://stackoverflow.com/users/19969204/mr-rushikesh?tab=profile)
 
 As a Full Stack Developer with a passion for technology and a range of skills in front-end and back-end development, I am excited to build innovative and high-quality applications. With a Master’s degree in Computer Management, I have a strong foundation in languages such as C, ASP, SQL, and HTML. I have experience working on real-time applications, such as Zomato and Flipkart, during my internship at Edureka. During this time, I built clones of these applications using ReactJs for the front-end, NodeJs for the back-end, and MongoDB as the database.
-
-I am proficient in JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, HTML5, CSS3, BootStrap, and C programming. I have excellent problem-solving skills and am able to work well in a team. My communication skills allow me to effectively collaborate with team members and communicate project progress to stakeholders.
+  I am proficient in JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, HTML5, CSS3, BootStrap, and C programming. I have excellent problem-solving skills and am able to work well in a team. My communication skills allow me to effectively collaborate with team members and communicate project progress to stakeholders.
 
 ![Visitor Count](https://profile-counter.glitch.me/rushikesh/count.svg)
 <div>
