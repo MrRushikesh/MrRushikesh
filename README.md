@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Rushikesh-red)](https://www.youtube.com/channel/UCvPZ5RQ6YSlHIamTcj9DyjA)
-[![Linkedin Badge](https://img.shields.io/badge/-Rushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)]([https://www.linkedin.com/in/rushikesh-ingale-1a302b247/](https://www.linkedin.com/in/rushikeshingale01/))
+[![Linkedin Badge](https://img.shields.io/badge/-Rushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/rushikeshingale01/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Rushikesh-green)](https://twitter.com/Mr_Rushi7447)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rushikesh-yellow)](https://stackoverflow.com/users/19969204/mr-rushikesh?tab=profile)
 
