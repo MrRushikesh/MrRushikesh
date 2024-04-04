@@ -10,7 +10,7 @@ In my journey as a front-end developer, I have focused on mastering <span style=
 
 Transitioning to the back end, I learned server-side frameworks like Node.js. I delved into working with databases such as MySQL and MongoDB, where I designed efficient database structures and learned to write optimized queries. My goal was to become proficient in integrating RESTful APIs into applications to enable seamless communication between the front end and back end.
 
-While I am relatively new to version control systems like Git, I am eager to learn and grow in this area. I am also keen on embracing collaborative environments using Agile methodologies. Staying updated with the latest trends and technologies in web development excites me, as it allows me to continually improve my skills and deliver innovative solutions. ⚡
+While I am relatively new to version control systems like Git, I am eager to learn and grow in this area. I am also keen on embracing collaborative environments using Agile methodologies. Staying updated with the latest trends and technologies in web development excites me, as it allows me to continually improve my skills and deliver innovative solutions. ⚡<span style="color: green"> Some green text </span>
 
 <h3 align="center"> Paasionate Full Stack Developer </h3>
 <h4 align="center"> Views </h4>
