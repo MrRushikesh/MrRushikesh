@@ -1,128 +1,117 @@
-### Hi Developers 👋
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Rushikesh-red)](https://www.youtube.com/channel/UCvPZ5RQ6YSlHIamTcj9DyjA)
-[![Linkedin Badge](https://img.shields.io/badge/-Rushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/rushikeshingale01/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Rushikesh-green)](https://twitter.com/Mr_Rushi7447)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Rushikesh-yellow)](https://stackoverflow.com/users/19969204/mr-rushikesh?tab=profile)
+![](https://github.com/SauravMukherjee44/SauravMukherjee44/blob/2eaf9913624f1ed5b2c909873e60f2eb153ef793/Banner.png)
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a></h1>
+<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-As a Full Stack Developer with a passion for technology and a range of skills in front-end and back-end development, I am excited to build innovative and high-quality applications. With a Master’s degree in Computer Management, I have a strong foundation in languages such as C, ASP, SQL, and HTML. I have experience working on real-time applications, such as Zomato and Flipkart, during my internship at Edureka. During this time, I built clones of these applications using ReactJs for the front-end, NodeJs for the back-end, and MongoDB as the database.
-  I am proficient in JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, HTML5, CSS3, BootStrap, and C programming. I have excellent problem-solving skills and am able to work well in a team. My communication skills allow me to effectively collaborate with team members and communicate project progress to stakeholders.
+A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> currently in my final year, As of now, I am focused on <b>Full Stack Web Development, Cloud Computing and Machine Learning </b> but still, wish to explore many fields. ⚡
 
-![Visitor Count](https://profile-counter.glitch.me/rushikesh/count.svg)
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rushikesh&column=7"/>
-  </a>
+<h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast </h3>
+
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
+   <div align="center">
+
+<h1>Technical Skills 🛠</h1>
+ 
+
+<p align="center"> 
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+ <img alt="scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
+ <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+ <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+ <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+ <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
+
+
+I believe in implementing the knowledge which you have. Projects play a significant role in showcasing your skills. They help in predicting the skills of a person. So let's have a look at my project section.
+
+<h1 align="center">Projects</h1>
+
+
+
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [My Portfolio Website](https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. |
+| [College Library Website](https://sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website where you can keep a record of all the books you have issued.© 2022 Saurav Mukherjee| 
+| [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.|
+| [Menses](https://sauravmukherjee44.github.io/Menses/)     | Menses-Enables Menstrual Hygiene Solutions Tech Used: Google Maps API, Html5, bootstrap5, JavaScript SCSS, email.js, firebase, Firestore, and Alan AI. | 
+| [Netflix-Clone-react-App](https://clone-netflix-next-js.vercel.app/)     | Netflix clone App built with ReactJS, NextJS TMDB API, Firebase, CSS and JavaScript. |
+| [Amazon Clone Marketplace](https://amazon-sclone.vercel.app/)     | Amazon clone e-commerce full stack web app built using ReactJS and NextJS. Tech Used: ReactJS, Webhooks, Stripe Payments API for Checkout, Cloud Firestore database, NextAuth, Redux, Google Authentication, Add to Basket Functionality, Tailwind CSS and Vercel. |
+
+ <h1 align="center">Let's Get Connected</h1>
+
+<div align="center">
+
+<a  href="https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://t.me/Saurav_44"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://discord.com/users/758681549993541684"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<a  href="https://www.instagram.com/mesouravofficial/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+
+   
+   
 </div>
+  
 
-Languages and Tools: 
+   <div align="center">
+      
+   <h1 align="center">CodeIN Community</h1>
+      <img width="10%" align="center"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" >
+<br>
+I started India's Top Growing Student Technical Community of 10,000+ Students. Where we organize Events, Hackathons, and Workshops on different Technologies. Also, We Share Resources, Roadmaps to learn different technologies and share opportunities related to Internships and different tech programs.
+We are providing 1:1 Mentorship on our Discord server totally free of cost.
 
-<img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=flat-square&logo=adobexd&logoColor=white"/><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-</a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    </a>
-    <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-    </a>
-    <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
-    </a>
+Join the community on Discord for interaction with students from all over India.
 
-![](https://activity-graph.herokuapp.com/graph?username=MrRushikesh&theme=react-dark&area=true)
+Visit us at: 
+ <a href="https://codeincommunity.tech"><img alt="Website" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
 
+  <span> <h2>Join the Community on Discord ⚡</h2>
+<a  href="https://discord.gg/hWwbgP4dz9"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a  href="https://t.me/CodeINCommunity"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://www.linkedin.com/company/codein-community/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
+   
+ </div>
+   
+   
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=SauravMukherjee44&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SauravMukherjee44&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+  </tr>
+</table>
 
-<!--
-### Hi there 👋
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark" alt="SauravMukherjee" /></p>
+  </div>
+   
+   
 
-
-**MrRushikesh/MrRushikesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/SauravMukherjee44?tab=followers)
