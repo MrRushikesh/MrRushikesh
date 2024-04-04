@@ -10,8 +10,7 @@ In my journey as a front-end developer, I have focused on mastering <span style=
 
 Transitioning to the back end, I learned server-side frameworks like Node.js. I delved into working with databases such as MySQL and MongoDB, where I designed efficient database structures and learned to write optimized queries. My goal was to become proficient in integrating RESTful APIs into applications to enable seamless communication between the front end and back end.
 
-While I am relatively new to version control systems like Git, I am eager to learn and grow in this area. I am also keen on embracing collaborative environments using Agile methodologies. Staying updated with the latest trends and technologies in web development excites me, as it allows me to continually improve my skills and deliver innovative solutions. ⚡<span style="color: green"> Some green text </span>
-
+While I am relatively new to version control systems like Git, I am eager to learn and grow in this area. I am also keen on embracing collaborative environments using Agile methodologies. Staying updated with the latest trends and technologies in web development excites me, as it allows me to continually improve my skills and deliver innovative solutions. ⚡
 <h3 align="center"> Paasionate Full Stack Developer </h3>
 <h4 align="center"> Views </h4>
 <h3><p align="center"> <img src="https://profile-counter.glitch.me/rushikesh/count.svg" alt="views" /> </p></h3>
@@ -50,8 +49,8 @@ I believe in implementing the knowledge which you have. Projects play a signific
 | :---:        |    :----   |  
 | [My Portfolio Website](https://mrrushikesh.github.io/Rushikesh_Ingale_Portfolio/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. |
 | [Restaurant Reservation Website]()   | This is a Restaurant Reservation Website where you can keep a record of all the books you have issued.© 2022 Saurav Mukherjee| 
-| [E-Mail Classification Model]()     | Classify emails as spam or not-spam on the basis of the message.|
-| [Menses]()     | Menses-Enables Menstrual Hygiene Solutions Tech Used: Google Maps API, Html5, bootstrap5, JavaScript SCSS, email.js, firebase, Firestore, and Alan AI. | 
+| [E-Commerce Website]()     | Classify emails as spam or not-spam on the basis of the message.|
+| [To-Do-List]()     | Menses-Enables Menstrual Hygiene Solutions Tech Used: Google Maps API, Html5, bootstrap5, JavaScript SCSS, email.js, firebase, Firestore, and Alan AI. | 
 | [Netflix-Clone-react-App]()     | Netflix clone App built with ReactJS, NextJS TMDB API, Firebase, CSS and JavaScript. |
 | [Amazon Clone Marketplace]()     | Amazon clone e-commerce full stack web app built using ReactJS and NextJS. Tech Used: ReactJS, Webhooks, Stripe Payments API for Checkout, Cloud Firestore database, NextAuth, Redux, Google Authentication, Add to Basket Functionality, Tailwind CSS and Vercel. |
 
