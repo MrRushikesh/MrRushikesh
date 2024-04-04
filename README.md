@@ -2,11 +2,11 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/rushikeshingale01/" target="_blank"> Rushikesh Ingale </a></h1>
 <img width="40%" align="right"   src="" >
 
-Hello, my name is <b>Rushikesh Ingale</b>, and I am a passionate <b>Full Stack Developer<b/>. I am enthusiastic about web development and eager to contribute to building complete and scalable applications.
+Hello, my name is <b>Rushikesh Ingale</b>, and I am a passionate <b>Full Stack Developer</b>. I am enthusiastic about web development and eager to contribute to building complete and scalable applications.
 
 My journey in the realm of technology began with my studies in <b>Computer Management in Cyber Commerce</b>. This educational background has provided me with a strong foundation in computer science principles and a keen understanding of cyber commerce, shaping my interest in web development.
 
-In my journey as a front-end developer, I have focused on mastering <span  style="color:'orange';">HTML</span>, CSS, and JavaScript frameworks such as React. I am passionate about crafting intuitive user interfaces that offer exceptional user experiences. I meticulously ensure that the websites or applications I work on are responsive, visually appealing, and accessible across various devices and browsers.
+In my journey as a front-end developer, I have focused on mastering <span style="color:red;">HTML</span>, CSS, and JavaScript frameworks such as React. I am passionate about crafting intuitive user interfaces that offer exceptional user experiences. I meticulously ensure that the websites or applications I work on are responsive, visually appealing, and accessible across various devices and browsers.
 
 Transitioning to the back end, I learned server-side frameworks like Node.js. I delved into working with databases such as MySQL and MongoDB, where I designed efficient database structures and learned to write optimized queries. My goal was to become proficient in integrating RESTful APIs into applications to enable seamless communication between the front end and back end.
 
