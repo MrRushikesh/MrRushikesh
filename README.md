@@ -87,18 +87,23 @@ I believe in implementing the knowledge which you have. Projects play a signific
    
 
 [![GitHub followers](https://img.shields.io/github/followers/MrRushikesh.svg?style=social&label=Follow)](https://github.com/MrRushikesh?tab=followers)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MrRushikesh/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MrRushikesh/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/MrRushikesh/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<table>
+   <tr>
+      <td>
+         <picture style="border: 2px solid #ffffff">
+           <source 
+             media="(prefers-color-scheme: dark)"
+             srcset="https://raw.githubusercontent.com/MrRushikesh/snk/output/github-contribution-grid-snake-dark.svg"
+           />
+           <source
+             media="(prefers-color-scheme: light)"
+             srcset="https://raw.githubusercontent.com/MrRushikesh/snk/output/github-contribution-grid-snake.svg"
+           />
+           <img
+             alt="github contribution grid snake animation"
+             src="https://raw.githubusercontent.com/MrRushikesh/snk/output/github-contribution-grid-snake.svg"
+           />
+         </picture>
+      </td>
+   </tr>
+</table>
