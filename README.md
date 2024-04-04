@@ -1,12 +1,12 @@
 ![](Banner.png)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a></h1>
-<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/rushikeshingale01/" target="_blank"> Rushikesh Ingale </a></h1>
+<img width="40%" align="right"   src="" >
 
-A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> currently in my final year, As of now, I am focused on <b>Full Stack Web Development, Cloud Computing and Machine Learning </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Rushikesh Ingale</b> I have completed <b>Master of Computer Management</b> currently i am into Full Stack Development, As of now, I am focused on <b>Full Stack Web Development</b> but still, wish to explore many fields. ⚡
 
-<h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast </h3>
+<h3 align="center"> Paasionate Full Stack Developer </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
+<h3><p align="center"> <img src="https://profile-counter.glitch.me/rushikesh/count.svg" alt="views" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
