@@ -1,6 +1,6 @@
 ![](Banner.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/rushikeshingale01/" target="_blank"> Rushikesh Ingale </a></h1>
-<img width="40%" align="right"   src="" >
+<img width="40%" align="right"   src="coder.png" >
 
 Hello, my name is <b>Rushikesh Ingale</b>, and I am a passionate <b>Full Stack Developer</b>. I am enthusiastic about web development and eager to contribute to building complete and scalable applications.
 
